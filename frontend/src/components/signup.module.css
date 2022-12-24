@@ -1,0 +1,28 @@
+.inputbox{
+  width: 30%;
+  height: 18em;
+  margin: 3em auto;
+ border: 1px solid black;
+}
+.inputbox h1{
+  text-align: center;
+}
+.inputbox input{
+  display: block;
+  margin:1.3em auto;
+  padding: 7px;
+  width: 300px;
+  border: 1px solid black;
+}
+
+.button{
+    
+    border: 1px solid black;
+    width: 12em;
+    height: 1.9em;
+    display: block;
+    background-color: rgb(90, 185, 190);
+    cursor: pointer;
+    border-radius: 6px;
+    margin: 1em auto
+}

@@ -13,21 +13,27 @@ function Nav() {
             <Link Link to="/add">
               Add Products
             </Link>
-            <li>
-              <Link Link to="/update">
-                Update Product
-              </Link>
-            </li>
-            <li>
-              <Link Link to="/logout">
-                Logout
-              </Link>
-              <li>
-                <Link Link to="/profile">
-                  profile
-                </Link>
-              </li>
-            </li>
+          </li>
+          <li>
+            <Link Link to="/update">
+              Update Product
+            </Link>
+          </li>
+          <li>
+            <Link Link to="/logout">
+              Logout
+            </Link>
+          </li>
+          <li>
+            <Link Link to="/profile">
+              profile
+            </Link>
+          </li>
+
+          <li>
+            <Link Link to="/signup">
+              signup
+            </Link>
           </li>
         </ul>
       </div>

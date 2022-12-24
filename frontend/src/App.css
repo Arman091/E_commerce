@@ -1,20 +1,22 @@
 .nav-ul li{
    display: inline-block;
    padding: 10px;
+   margin: 1.3em 1.2em;
 }
 
 .nav-ul li a{
-  color: white;
+  color: rgb(16, 13, 13);
   text-decoration: none;
   padding: 5px;
-  margin-left: 3em;
+
 }
 .nav-ul{
   width: 95%;
+  height: 5em;
   padding:0%;
   margin: 0;
   margin: 2px auto;
-  background-color: skyblue;
+  background-color: rgba(130, 207, 237, 0.801);
   border-radius: 8px;
 }
 
@@ -26,6 +28,7 @@
   background-color: rgb(35, 37, 39);
   color: white;
 }
+
 
 
 
