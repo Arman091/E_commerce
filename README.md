@@ -14,3 +14,10 @@
 * here i Used mongoAtlas so for that reason i have used environment variables for credentials incase if you find your code not workingyou can change url in Config.js in db directry.you can add your own mongoatlas account or install locally.
 
 * All webpacks configuration is default they have been managed by npm as default
+ 
+ 
+ 
+ 
+ 
+ 
+ 
